@@ -1,4 +1,5 @@
-> No longer maintained; rewrite hosted at [Nilsen84/lcqt2](https://github.com/Nilsen84/lcqt2)  
+> No longer maintained; rewrite hosted at [Nilsen84/lcqt2](https://github.com/Nilsen84/lcqt2)
+> df
 
 ![Github all releases](https://img.shields.io/github/downloads/Nilsen84/lunar-client-qt/total)
 ![GPLv3](https://img.shields.io/github/license/Nilsen84/lunar-client-qt)
